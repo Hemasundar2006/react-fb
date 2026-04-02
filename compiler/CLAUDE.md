@@ -54,7 +54,7 @@ yarn prettier-all
 Use `yarn snap compile` to compile any file (not just fixtures) with the React Compiler:
 
 ```bash
-# Compile a file and see the output
+# Compile a file and see the output you can see
 yarn snap compile <path>
 
 # Compile with debug logging to see the state after each compiler pass
